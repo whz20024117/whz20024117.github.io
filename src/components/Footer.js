@@ -13,7 +13,7 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="5">123</Col>
+        <Col md="5">Haizhou Wang</Col>
       </Row>
     </Container>
   );
